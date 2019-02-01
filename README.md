@@ -1,4 +1,4 @@
 # hello-word
 just another repository
 
-I whant expriment this way.
+I'd like to expriment this way.
